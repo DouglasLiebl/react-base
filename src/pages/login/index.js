@@ -7,8 +7,9 @@ export default function Login() {
     <Container>
       <Title>
         Login <small>there</small>
-        <Paragraph>kljlkj</Paragraph>
       </Title>
+      <Paragraph>kljlkj</Paragraph>
+      <button type="button">Send</button>
     </Container>
   );
 }
